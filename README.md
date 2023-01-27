@@ -1,2 +1,3 @@
-# angorapy-tutorials
-Tutorials on using AngoraPy for goal-driven modeling of the sensorimotor system 
+# AngoraPy: Tutorials
+
+A collections of notebook tutorials on how to use AngoraPy.
