@@ -1,10 +1,9 @@
-# :mortar_board: [AngoraPy](https://github.com/ccnmaastricht/angorapy) Tutorials
+# :mortar_board: [AngoraPy](https://github.com/ccnmaastricht/angorapy) Documentation & Tutorials
 
-A growing collections of notebook tutorials on how to use [AngoraPy](https://github.com/ccnmaastricht/angorapy). 
+A growing collections of examples and notebook tutorials on how to use [AngoraPy](https://github.com/ccnmaastricht/angorapy). 
 
-_DISCLAIMER: These notebooks are work in progress. If you are missing some information or detect a problem, please open an issue._
+_DISCLAIMER: This documentation is work in progress. If you are missing some information or detect a problem, please open an issue._
 
-1. Get Started
-2. Custom Models
-3. Custom Recurrent Models
-4. Loading and Inspecting Pretrained Agents
+1. [Get Started](get-started)
+2. [Customization](customization)
+3. [Loading and Inspecting Pretrained Agents](analysis)
