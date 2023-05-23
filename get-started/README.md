@@ -4,7 +4,6 @@ Welcome to the AngoraPy documentation! This README will guide you through the in
 
 ## Setup and Installation
 
-
 ### Prerequisites
 AngoraPy requires Python 3.6 or higher. It is recommended to use a virtual environment to install AngoraPy and its dependencies. Additionally, some prerequisites are required. 
 
