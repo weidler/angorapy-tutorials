@@ -6,8 +6,8 @@ _DISCLAIMER: This documentation is work in progress. If you are missing some inf
 
 1. [Get Started](get-started)
 2. [Customization](customization)
-   1. [Custom Models](customization/02-custom-models.ipynb)
-   2. [Custom Recurrent Models](customization/03-custom-recurrent-models.ipynb)
+   1. [Custom Models](customization/modeling/02-custom-models.ipynb)
+   2. [Custom Recurrent Models](customization/modeling/03-custom-recurrent-models.ipynb)
 3. [Loading and Inspecting Pretrained Agents](analysis)
    1. [Model Inspection](analysis/04-model-inspection.ipynb)
       1. [Inspecting a LunarLander Agent](analysis/04.1-model-inspection-lunarlander.ipynb)
