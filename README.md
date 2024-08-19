@@ -10,9 +10,9 @@ _DISCLAIMER: This documentation is work in progress. If you are missing some inf
    In our first tutorial, we will show you how to install AngoraPy and train your first agent.
 2. **[Customization](customization)** \
    In this section, we will show you how to customize your training process by using your own models and tasks.
-   1. [Custom Models](customization/02-custom-models.ipynb)
-   2. [Custom Recurrent Models](customization/03-custom-recurrent-models.ipynb)
-   3. [Custom Tasks](customization/)
+   1. [Custom Models](customization/modeling/02-custom-models.ipynb)
+   2. [Custom Recurrent Models](customization/modeling/03-custom-recurrent-models.ipynb)
+   3. [Custom Tasks](customization/tasks/04-custom-simple-task.ipynb)
 3. **[Loading and Inspecting Pretrained Agents](analysis)** \
    Lastly, we will show you how to load and inspect agents trained for instance during the previous tutorials.
    1. [Model Inspection](analysis/04-model-inspection.ipynb)
