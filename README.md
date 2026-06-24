@@ -15,7 +15,4 @@ _DISCLAIMER: This documentation is work in progress. If you are missing some inf
    3. [Custom Tasks](customization/tasks/04-custom-simple-task.ipynb)
 3. **[Loading and Inspecting Pretrained Agents](analysis)** \
    Lastly, we will show you how to load and inspect agents trained for instance during the previous tutorials.
-   1. [Model Inspection](analysis/04-model-inspection.ipynb)
-      1. [Inspecting a LunarLander Agent](analysis/04.1-model-inspection-lunarlander.ipynb)
-      2. [Inspecting an Acrobot Agent](analysis/04.2-model-inspection-acrobot.ipynb)
-      3. [Inspecting a Pendulum Agent](analysis/04.3-model-inspection-pendulum.ipynb)
+   1. [Model Inspection](analysis/05-model-inspection.ipynb)

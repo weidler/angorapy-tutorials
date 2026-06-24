@@ -279,4 +279,17 @@ cython_debug/
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,python
-/storage/
+# Any `storage` directory in a subfolder is always ignored.
+storage/
+
+# The top-level storage dir is the exception: ignore its contents except the
+# trained agents shipped with the repo.
+# (To re-include a path under an ignored dir, each parent must be un-ignored too.)
+!/storage/
+/storage/*
+!/storage/saved_models/
+/storage/saved_models/*
+!/storage/saved_models/1782235840435716/
+!/storage/saved_models/1782248882733486/
+!/storage/saved_models/1782249915849590/
+!/storage/saved_models/1782252372304227/

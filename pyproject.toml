@@ -1,0 +1,18 @@
+[project]
+name = "angorapy-tutorials"
+version = "0.11.0"
+description = "Tutorials and examples for AngoraPy."
+readme = "README.md"
+requires-python = ">=3.11, <3.12"
+dependencies = [
+    "angorapy[box2d]",
+    "jupyter",
+    "pydot",
+    "graphviz",
+    "tf-keras",
+    "bokeh",
+    "notebook>=7.6.0",
+]
+
+[tool.uv.sources]
+angorapy = { path = "../angorapy", editable = true }
