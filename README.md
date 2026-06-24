@@ -1,6 +1,6 @@
 # :mortar_board: [AngoraPy](https://github.com/ccnmaastricht/angorapy) Documentation & Tutorials
 
-Currently up-to-date with version `0.10.8`
+Currently up-to-date with version `0.11.0`
 
 A growing collections of examples and notebook tutorials on how to use [AngoraPy](https://github.com/ccnmaastricht/angorapy). 
 
