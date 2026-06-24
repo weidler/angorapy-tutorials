@@ -5,7 +5,7 @@ description = "Tutorials and examples for AngoraPy."
 readme = "README.md"
 requires-python = ">=3.11, <3.12"
 dependencies = [
-    "angorapy[box2d]",
+    "angorapy[box2d]==0.11.0",
     "jupyter",
     "pydot",
     "graphviz",
@@ -14,5 +14,5 @@ dependencies = [
     "notebook>=7.6.0",
 ]
 
-[tool.uv.sources]
-angorapy = { path = "../angorapy", editable = true }
+#[tool.uv.sources]
+#angorapy = { path = "../angorapy", editable = true }
